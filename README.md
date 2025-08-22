@@ -1,7 +1,7 @@
 # AmadorJuliusEcerr
 Hi! 👦I'm Julius Ecer Amador a college student from LSPU Santa Cruz Campus
 
-👨‍💻Currently learning python, flask, SQL, Flutter, and Dart
+👨‍💻Currently learning basic python
 🎯Goal:To become a skilled web developer that helps grow the web developing community 
 ✍️ Interested in SoftwareDevelopment, and UI/UX Design
 
