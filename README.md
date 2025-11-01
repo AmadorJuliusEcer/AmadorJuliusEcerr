@@ -4,7 +4,7 @@ Hi! 👦I'm Julius Ecer Amador a college student from LSPU Santa Cruz Campus
 
 👨‍💻Currently learning basic python
 
-🎯Goal:To become a skilled web developer that helps grow the web developing community 
+🎯Goal:To become a skilled web developer that helps grow the web development community 
 
 ✍️ Interested in 
 
